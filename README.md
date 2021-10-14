@@ -13,6 +13,7 @@ Demonstrations
 
 Usage
 
+Conclution
 
 License
 
@@ -88,6 +89,20 @@ Recipient's address scan on the Kovan tesnet (Recipient's address scan)
 Transaction block Scan info 
 
 ![Transaction block scan](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/transaction_block.png)
+
+Recipients transaction details 
+
+![Recipients transacton scan](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/recipient_transaction_details.png)
+
+wallet scan of recipient 
+
+![wallet scan of recipient](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/recipient_got_it.png)
+
+Conclusion:
+
+Overall the project is a success, The images above show that a Fintech profesional can be hired and paid directly from the streamlit application and the transacton visible on the scan. Although this used the testnet, it can be intergrated and used in the mainnet to functoin as illustrated here. 
+
+This application could be improved by adding a link to the proffessional's resume and developement background page. Hiring a professional requires more to consider than what we have here.
 
 
 
