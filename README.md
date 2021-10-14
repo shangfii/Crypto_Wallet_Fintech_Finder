@@ -3,7 +3,7 @@ Fintech Finder is an application that its customers can use to find fintech prof
 
 Table of Contents
 
-Project overview
+[Project overview](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/README.md#project-overview)
 
 Technologies 
 
