@@ -65,5 +65,6 @@ Pip install the following applications and make sure they work properly:
 
 # Demonstrations:
 
-Use VScode to open and lauch the Fintech_finder.py file 
+Use VScode to open and lauch the Fintech_finder.py file( see the image below for the launch area)
+![streamlit launched ](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/Streamlit_app_launch.png)
 
