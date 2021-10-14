@@ -1,7 +1,7 @@
 # Crypto_Wallet_Fintech_Finder
 Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them
 
-Table of Contents
+# Table of Contents
 
 [Project overview](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/README.md#project-overview)
 
@@ -12,9 +12,9 @@ Table of Contents
 [Demonstrations](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder#demonstrations) 
 
 
-Conclution
+[Conclution](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder#conclusion)
 
-License
+[License](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/LICENSE)
 
 
 # Project overview
