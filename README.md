@@ -66,5 +66,29 @@ Pip install the following applications and make sure they work properly:
 # Demonstrations:
 
 Use VScode to open and lauch the Fintech_finder.py file( see the image below for the launch area)
+
 ![streamlit launched ](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/Streamlit_app_launch.png)
+
+When streamlit opens; the left site should look like the image below(Streamlit ready for transaction)
+
+![streamlit ready for use](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/Streamlit_interacton_Fintech_finder.png)
+
+When a transaction is done; the following image shows what you will see 
+
+![Transaction done](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/transactions_done.png)
+
+A scan of the senders wallet on the Kovan testnet (Sender's Kovan scan)
+
+![Sender's Kovan scan](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/Sender_Kovanscan.png)
+
+Recipient's address scan on the Kovan tesnet (Recipient's address scan)
+
+![Recipient's Kovan scan](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/recipient_got_it.png)
+
+Transaction block Scan info 
+
+![Transaction block scan](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/transaction_block.png)
+
+
+
 
