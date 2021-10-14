@@ -25,28 +25,17 @@ This streamlit application called Fintech Finder created in the project helps to
 # Technologies Required 
 
 1. Python version 3.8.5: This project leveraes Python and specifically the following packages and modules:
-
-a). Pandas - version 1.3.2 - For easy manipulation dataframes and create dataframes.
-
-b). Streamlit - version 0.84.2 - To view the application into a web browser and for users interaction with the ledger.
-
-c). Data Classes -Provides a decorator and functions for automatically adding generated special methods to classes
-
-d).  datetime -  used this to be able to determine the UTC timezoon to create a time stamp in our blockchain.
-
-e). typing-  allows for use of fundamental support consisting of the types Any, Union, Tuple, Callable, TypeVar, and Generic.
-
-f). hashlib-  SHA256 was used to return a hexdigest.
-
-g.) web3.py -  Python library for connecting to and performing operations on Ethereum-based blockchains.
-
-h). eth-tester - Python library that provides access to the tools used to test Ethereum-based applications.
-
-i). mnemonic - Python implementation for generating a 12- or 24-word mnemonic seed phrase based on the BIP-39 standard.
-
-j). bip44 - Python implementation for deriving hierarchical deterministic wallets from a seed phrase based on the BIP-44 standard.
-
-k). Infura API - API grants access to the Ethereum network over HTTPS and account is required 
+2.  Pandas - version 1.3.2 - For easy manipulation dataframes and create dataframes.
+3.   Streamlit - version 0.84.2 - To view the application into a web browser and for users interaction with the ledger.
+4.   Data Classes -Provides a decorator and functions for automatically adding generated special methods to classes
+5.    datetime -  used this to be able to determine the UTC timezoon to create a time stamp in our blockchain.
+6.    typing-  allows for use of fundamental support consisting of the types Any, Union, Tuple, Callable, TypeVar, and Generic.
+7.     hashlib-  SHA256 was used to return a hexdigest.
+8.      web3.py -  Python library for connecting to and performing operations on Ethereum-based blockchains.
+9.      eth-tester - Python library that provides access to the tools used to test Ethereum-based applications.
+10.      mnemonic - Python implementation for generating a 12- or 24-word mnemonic seed phrase based on the BIP-39 standard.
+11.      bip44 - Python implementation for deriving hierarchical deterministic wallets from a seed phrase based on the BIP-44 standard.
+12.      Infura API - API grants access to the Ethereum network over HTTPS and account is required 
 
 # Installations
 
