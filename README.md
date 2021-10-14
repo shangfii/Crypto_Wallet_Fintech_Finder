@@ -5,13 +5,12 @@ Table of Contents
 
 [Project overview](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/README.md#project-overview)
 
-Technologies 
+[Technologies](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder#technologies-required) 
 
-Installation Guide
+[Installation Guide](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder#installations)
 
-Demonstrations 
+[Demonstrations](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder#demonstrations) 
 
-Usage
 
 Conclution
 
@@ -98,7 +97,7 @@ wallet scan of recipient
 
 ![wallet scan of recipient](https://github.com/shangfii/Crypto_Wallet_Fintech_Finder/blob/main/Fintech_finder/Images/recipient_got_it.png)
 
-Conclusion:
+# Conclusion:
 
 Overall the project is a success, The images above show that a Fintech profesional can be hired and paid directly from the streamlit application and the transacton visible on the scan. Although this used the testnet, it can be intergrated and used in the mainnet to functoin as illustrated here. 
 
